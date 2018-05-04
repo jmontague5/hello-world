@@ -1,2 +1,3 @@
 # hello-world
-my first project
+
+This is my first project and I'm not sure what I'm doing.
